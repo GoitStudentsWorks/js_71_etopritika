@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://etopritika.github.io/team-project-12",
+  "homepage": "https://GoitStudentsWorks.github.io/js_71_etopritika",
   "scripts": {
     "start": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /team-project-12/"
+    "build": "parcel build src/*.html --public-url /js_71_etopritika/"
   },
   "repository": {
     "type": "git",
